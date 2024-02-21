@@ -4,9 +4,10 @@
 ### Quick Notes:
 
 #### [- Inventor: DJ Gooden](https://github.com/Black-Inspector-Gadget)
-#### [- Co-Making the Future Global Finalist](https://www.hackster.io/Black_Inspector_Gadget/beat-the-heat-car-seat-a6ada0)
+#### [- Co-Making the Future Global Finalist](https://www.hackster.io/Black_Inspector_Gadget/beat-the-heat-car-seat-a6ada0)     
+#### [- 2017 U.S. Intel Hack-a-thon Semifinalist: ](https://www.hackster.io/contests/2017chinausyoungmakercompetition) Competed at the U.S. National level and advanced to the Global level in Beijing, China.
 #### [- Demo / Prototype Video](https://youtu.be/UN9gVtCyo7g?si=lusutm2qsSUFShXt)
-#### [- Device Code:](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat/tree/main/Device%20Code) Free to use but please cite me as your source!
+#### [- Device Code: ](https://github.com/Black-Inspector-Gadget/Beat-The-Heat-Carseat/tree/main/Device%20Code) Free to use but please cite me as your source!
 
 
 
